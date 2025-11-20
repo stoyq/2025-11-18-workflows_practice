@@ -8,4 +8,4 @@ git switch <name>
 adding more stuffhere
 
 git branch -d <name> will delete the branch name
-
+git fetch --prune will delete branches from the remote
