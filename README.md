@@ -6,3 +6,6 @@ git branch <name>
 git switch <name>
 
 adding more stuffhere
+
+git branch -d <name> will delete the branch name
+
